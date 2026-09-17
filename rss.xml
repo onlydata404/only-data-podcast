@@ -16,6 +16,13 @@
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
 <item>
+  <title>Microsoft Purview Updates - 17 September 2026</title>
+  <description>Tif(contains(2026-09-16-purview-updates; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-purview-updates; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-purview-updates; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-purview-updates; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-purview-updates; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-purview-updates; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-purview-updates; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
+  <pubDate>Thu, 17 Sep 2026 19:26:22</pubDate>
+  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-purview-updates.mp3" length="0" type="audio/mpeg"/>
+  <guid>2026-09-16-purview-updates</guid>
+</item>
+<item>
   <title>Technology Roundup - 17 September 2026</title>
   <description>Tif(contains(2026-09-16-tech-roundup; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-tech-roundup; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-tech-roundup; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-tech-roundup; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-tech-roundup; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-tech-roundup; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-tech-roundup; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
   <pubDate>Thu, 17 Sep 2026 19:26:06</pubDate>
