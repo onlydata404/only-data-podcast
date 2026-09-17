@@ -3,7 +3,7 @@
   <channel>
     <title>Only Data</title>
     <link>https://onlydata404.github.io/only-data-podcast/</link>
-    <description>"Your go-to Podcast for the latest news on Data Security and AI. Featuring weekly episodes covering breaches, incidents, industry, and technology updates."</description>
+    <description>Your AI-driven partner for the latest insights on data security and AI, covering breaches, incidents, industry updates and technology roadmaps. Weekly episodes drop each Sunday!</description>
     <language>en-gb</language>
     <itunes:author>Leon Butler</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -15,55 +15,7 @@
     </image>
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
-<item>
-  <title>Microsoft AI Updates - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 18:24:30</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-microsoft-ai-updates.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-microsoft-ai-updates</guid>
-</item>
-<item>
-  <title>Microsoft Defender Updates - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 18:24:15</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-defender-updates.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-defender-updates</guid>
-</item>
-<item>
-  <title>Microsoft Purview Updates - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 18:24:00</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-purview-updates.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-purview-updates</guid>
-</item>
-<item>
-  <title>Technology Roundup - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 18:23:45</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-tech-roundup.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-tech-roundup</guid>
-</item>
-<item>
-  <title>Noteworthy Data Incidents - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 18:23:29</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-incidents.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-incidents</guid>
-</item>
-<item>
-  <title>AI News for Cybersecurity & Data Security - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 18:23:13</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-ai-security.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-ai-security</guid>
-</item>
-<item>
-  <title>Data Security, Privacy & Governance Landscape - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 18:23:00</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-governance-landscape.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-governance-landscape</guid>
-</item>
+
 
   </channel>
 </rss>
