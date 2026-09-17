@@ -16,6 +16,14 @@
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
 <item>
+  <title>Microsoft Purview Updates - 17 September 2026</title>
+  <description>TThis week's roadmap and feature updates for Microsoft Purview.</description>
+  <pubDate>Thu, 17 Sep 2026 20:13:37</pubDate>
+  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-purview-updates.mp3" length="0" type="audio/mpeg"/>
+  <itunes:image href="https://onlydata404.github.io/only-data-podcast/cover-purview-updates.png"/>
+  <guid>2026-09-16-purview-updates</guid>
+</item>
+<item>
   <title>Technology Roundup - 17 September 2026</title>
   <description>TThis week's roundup of new and emerging data security technology.</description>
   <pubDate>Thu, 17 Sep 2026 20:13:06</pubDate>
