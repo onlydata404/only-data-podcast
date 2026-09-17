@@ -15,6 +15,13 @@
     </image>
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
+<item>
+  <title>Data Security, Privacy and Governance Landscape - 17 September 2026</title>
+  <description>Tif(contains(2026-09-16-governance-landscape; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-governance-landscape; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-governance-landscape; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-governance-landscape; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-governance-landscape; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-governance-landscape; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-governance-landscape; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
+  <pubDate>Thu, 17 Sep 2026 19:25:16</pubDate>
+  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-governance-landscape.mp3" length="0" type="audio/mpeg"/>
+  <guid>2026-09-16-governance-landscape</guid>
+</item>
 
 
   </channel>
