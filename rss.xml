@@ -16,6 +16,14 @@
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
 <item>
+  <title>Microsoft AI Updates - 17 September 2026</title>
+  <description>TThis week's roadmap and feature updates for Microsoft's AI products.</description>
+  <pubDate>Thu, 17 Sep 2026 20:14:39</pubDate>
+  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-microsoft-ai-updates.mp3" length="0" type="audio/mpeg"/>
+  <itunes:image href="https://onlydata404.github.io/only-data-podcast/cover-microsoft-ai-updates.png"/>
+  <guid>2026-09-16-microsoft-ai-updates</guid>
+</item>
+<item>
   <title>Microsoft Defender Updates - 17 September 2026</title>
   <description>TThis week's roadmap and feature updates for Microsoft Defender.</description>
   <pubDate>Thu, 17 Sep 2026 20:14:09</pubDate>
