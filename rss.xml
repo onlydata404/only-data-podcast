@@ -16,6 +16,14 @@
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
 <item>
+  <title>Technology Roundup - 17 September 2026</title>
+  <description>TThis week's roundup of new and emerging data security technology.</description>
+  <pubDate>Thu, 17 Sep 2026 20:13:06</pubDate>
+  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-tech-roundup.mp3" length="0" type="audio/mpeg"/>
+  <itunes:image href="https://onlydata404.github.io/only-data-podcast/cover-tech-roundup.png"/>
+  <guid>2026-09-16-tech-roundup</guid>
+</item>
+<item>
   <title>Noteworthy Data Incidents - 17 September 2026</title>
   <description>TThis week's noteworthy data breaches and security incidents.</description>
   <pubDate>Thu, 17 Sep 2026 20:12:34</pubDate>
