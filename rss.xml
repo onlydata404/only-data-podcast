@@ -15,55 +15,6 @@
     </image>
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
-<item>
-  <title>Microsoft AI Updates - 17 September 2026</title>
-  <description>Tif(contains(2026-09-16-microsoft-ai-updates; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-microsoft-ai-updates; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-microsoft-ai-updates; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-microsoft-ai-updates; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-microsoft-ai-updates; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-microsoft-ai-updates; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-microsoft-ai-updates; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
-  <pubDate>Thu, 17 Sep 2026 19:26:57</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-microsoft-ai-updates.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-microsoft-ai-updates</guid>
-</item>
-<item>
-  <title>Microsoft Defender Updates - 17 September 2026</title>
-  <description>Tif(contains(2026-09-16-defender-updates; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-defender-updates; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-defender-updates; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-defender-updates; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-defender-updates; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-defender-updates; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-defender-updates; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
-  <pubDate>Thu, 17 Sep 2026 19:26:42</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-defender-updates.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-defender-updates</guid>
-</item>
-<item>
-  <title>Microsoft Purview Updates - 17 September 2026</title>
-  <description>Tif(contains(2026-09-16-purview-updates; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-purview-updates; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-purview-updates; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-purview-updates; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-purview-updates; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-purview-updates; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-purview-updates; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
-  <pubDate>Thu, 17 Sep 2026 19:26:22</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-purview-updates.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-purview-updates</guid>
-</item>
-<item>
-  <title>Technology Roundup - 17 September 2026</title>
-  <description>Tif(contains(2026-09-16-tech-roundup; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-tech-roundup; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-tech-roundup; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-tech-roundup; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-tech-roundup; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-tech-roundup; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-tech-roundup; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
-  <pubDate>Thu, 17 Sep 2026 19:26:06</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-tech-roundup.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-tech-roundup</guid>
-</item>
-<item>
-  <title>Noteworthy Data Incidents - 17 September 2026</title>
-  <description>Tif(contains(2026-09-16-incidents; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-incidents; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-incidents; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-incidents; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-incidents; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-incidents; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-incidents; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
-  <pubDate>Thu, 17 Sep 2026 19:25:51</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-incidents.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-incidents</guid>
-</item>
-<item>
-  <title>AI News for Cybersecurity and Data Security - 17 September 2026</title>
-  <description>Tif(contains(2026-09-16-ai-security; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-ai-security; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-ai-security; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-ai-security; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-ai-security; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-ai-security; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-ai-security; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
-  <pubDate>Thu, 17 Sep 2026 19:25:35</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-ai-security.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-ai-security</guid>
-</item>
-<item>
-  <title>Data Security, Privacy and Governance Landscape - 17 September 2026</title>
-  <description>Tif(contains(2026-09-16-governance-landscape; "governance-landscape"); "This week's developments in data security, privacy and governance."; if(contains(2026-09-16-governance-landscape; "ai-security"); "This week's AI news for cybersecurity and data security professionals."; if(contains(2026-09-16-governance-landscape; "incidents"); "This week's noteworthy data breaches and security incidents."; if(contains(2026-09-16-governance-landscape; "tech-roundup"); "This week's roundup of new and emerging data security technology."; if(contains(2026-09-16-governance-landscape; "purview-updates"); "This week's roadmap and feature updates for Microsoft Purview."; if(contains(2026-09-16-governance-landscape; "defender-updates"); "This week's roadmap and feature updates for Microsoft Defender."; if(contains(2026-09-16-governance-landscape; "microsoft-ai-updates"); "This week's roadmap and feature updates for Microsoft's AI products."; "This week's data security and AI news.")))))))</description>
-  <pubDate>Thu, 17 Sep 2026 19:25:16</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-governance-landscape.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-governance-landscape</guid>
-</item>
 
 
   </channel>
