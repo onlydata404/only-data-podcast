@@ -15,47 +15,6 @@
     </image>
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
-<item>
-  <title>Microsoft AI Updates - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 17:17:24</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-microsoft-ai-updates.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-microsoft-ai-updates</guid>
-</item>
-<item>
-  <title>Microsoft Defender Updates - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 17:17:08</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-defender-updates.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-defender-updates</guid>
-</item>
-<item>
-  <title>Microsoft Purview Updates - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 17:16:53</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-purview-updates.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-purview-updates</guid>
-</item>
-<item>
-  <title>Technology Roundup - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 17:16:37</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-tech-roundup.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-tech-roundup</guid>
-</item>
-<item>
-  <title>Noteworthy Data Incidents - 17 September 2026</title>
-  <description>This week's data security and AI news.</description>
-  <pubDate>Thu, 17 Sep 2026 17:16:25</pubDate>
-  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-16-incidents.mp3" length="0" type="audio/mpeg"/>
-  <guid>2026-09-16-incidents</guid>
-</item>
-
-
-
-<item> <title>Data Security &amp; AI Weekly Review - 13 September 2026</title> <description>This week's data security and AI news.</description> <pubDate>Sun, 13 Sep 2026 20:00:26 GMT</pubDate> <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-13.mp3" length="0" type="audio/mpeg"/> <guid>2026-09-13</guid> </item>
-<item> <title>Data Security &amp; AI Weekly Review - 8 September 2026</title> <description>This week's data security and AI news.</description> <pubDate>Tue, 08 Sep 2026 18:46:13 GMT</pubDate> <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-08.mp3" length="0" type="audio/mpeg"/> <guid>2026-09-08</guid> </item>
-<item> <title>Data Security &amp; AI Weekly Review - 7 September 2026</title> <description>This week's data security and AI news.</description> <pubDate>Mon, 07 Sep 2026 23:05:16 GMT</pubDate> <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-07.mp3" length="0" type="audio/mpeg"/> <guid>2026-09-07</guid> </item>
 
   </channel>
 </rss>
