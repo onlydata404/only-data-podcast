@@ -16,6 +16,14 @@
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
 <item>
+  <title>AI News for Cybersecurity and Data Security - 7 October 2026</title>
+  <description>TThis week's AI news for cybersecurity and data security professionals.</description>
+  <pubDate>Wed, 07 Oct 2026 13:34:01</pubDate>
+  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-27-ai-security.mp3" length="0" type="audio/mpeg"/>
+  <itunes:image href="https://onlydata404.github.io/only-data-podcast/cover-ai-security.png"/>
+  <guid>2026-09-27-ai-security</guid>
+</item>
+<item>
   <title>Data Security, Privacy and Governance Landscape - 7 October 2026</title>
   <description>TThis week's developments in data security, privacy and governance.</description>
   <pubDate>Wed, 07 Oct 2026 13:33:31</pubDate>
