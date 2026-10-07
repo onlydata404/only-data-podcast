@@ -16,6 +16,14 @@
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
 <item>
+  <title>Noteworthy Data Incidents - 7 October 2026</title>
+  <description>TThis week's noteworthy data breaches and security incidents.</description>
+  <pubDate>Wed, 07 Oct 2026 13:34:32</pubDate>
+  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-27-incidents.mp3" length="0" type="audio/mpeg"/>
+  <itunes:image href="https://onlydata404.github.io/only-data-podcast/cover-incidents.png"/>
+  <guid>2026-09-27-incidents</guid>
+</item>
+<item>
   <title>AI News for Cybersecurity and Data Security - 7 October 2026</title>
   <description>TThis week's AI news for cybersecurity and data security professionals.</description>
   <pubDate>Wed, 07 Oct 2026 13:34:01</pubDate>
