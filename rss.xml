@@ -16,6 +16,14 @@
 
     <!-- MAKE INSERTS NEW <item> BLOCKS HERE, NEWEST FIRST -->
 <item>
+  <title>Data Security, Privacy and Governance Landscape - 7 October 2026</title>
+  <description>TThis week's developments in data security, privacy and governance.</description>
+  <pubDate>Wed, 07 Oct 2026 13:33:31</pubDate>
+  <enclosure url="https://onlydata404.github.io/only-data-podcast/episodes/2026-09-27-governance-landscape.mp3" length="0" type="audio/mpeg"/>
+  <itunes:image href="https://onlydata404.github.io/only-data-podcast/cover.png"/>
+  <guid>2026-09-27-governance-landscape</guid>
+</item>
+<item>
   <title>Microsoft AI Updates - 7 October 2026</title>
   <description>TThis week's roadmap and feature updates for Microsoft's AI products.</description>
   <pubDate>Wed, 07 Oct 2026 13:32:58</pubDate>
